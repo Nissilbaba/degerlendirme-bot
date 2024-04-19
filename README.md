@@ -1,0 +1,1 @@
+# degerlendirme-bot
